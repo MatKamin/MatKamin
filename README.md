@@ -1,37 +1,47 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MatKamin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-### About Me:    
+### About Me &nbsp; 👤 
 Dynamic Full Stack Developer with a keen interest in 2D/3D Design and Web Development. Currently pursuing a Bachelor’s in Computer Science and Digital Communications at FH Campus Wien, with a solid foundation in web technologies and design. 
 Passionate about blending technical expertise with creativity to deliver innovative solutions. Multilingual in English, German, and Polish, and enthusiastic about new challenges in the IT and design sectors.
-      
-### Languages and Proficiencies: 🌍
-I am multilingual with the following language proficiencies:
-- **Polish**: Proficient (C2)
-- **German**: Proficient (C2)
-- **English**: Advanced (C1)
 
-### Driver's License 🚗
-I hold the following driving licenses:
-- **Category B**: Since 09.2021
-- **Category B1**: Since 09.2021
-- **Category AM**: Since 09.2021
+&nbsp;
 
-### Interests 🌟
-I have a diverse range of interests that fuel my creativity and technical skills:
-- **2D & 3D Design**: Exploring dimensions in creativity.
-- **Coding**: Building and learning through code.
-- **Psychology**: Understanding human behavior and cognitive processes.
-- **Gaming**: Engaging with interactive and immersive digital environments.
+### Languages and Proficiencies &nbsp; 🌍
+>I am multilingual with the following language proficiencies:
+>- **Polish**: Proficient (C2)
+>- **German**: Proficient (C2)
+>- **English**: Advanced (C1)
 
-### Social media: 📡    
+&nbsp;
+
+### Driver's License &nbsp; 🚗
+>I hold the following driving licenses:
+>- **Category B**: Since 09.2021
+>- **Category B1**: Since 09.2021
+>- **Category AM**: Since 09.2021
+
+&nbsp;
+
+### Interests &nbsp; 🌟
+>I have a diverse range of interests that fuel my creativity and technical skills:
+>- **2D & 3D Design**: Exploring dimensions in creativity.
+>- **Coding**: Building and learning through code.
+>- **Psychology**: Understanding human behavior and cognitive processes.
+>- **Gaming**: Engaging with interactive and immersive digital environments.
+
+&nbsp;
+
+### Social media &nbsp; 📡    
 Let's connect on LinkedIn! Join my network and let's grow together.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-kaminski-7a9355292/)
 
+&nbsp;
+&nbsp;
 
-## Competitions: 🥇
+## Competitions &nbsp; 🥇
 
-### Awards
+### Awards &nbsp; 🏆
 
 #### Österreichweiter CAD-ModellierWettbewerb 2018
 
@@ -40,9 +50,12 @@ Let's connect on LinkedIn! Join my network and let's grow together.
 
 For more details, visit my [website](https://m-kaminski.at).
 
+&nbsp;
+&nbsp;
 
+## Professional Development &nbsp; 🌱
 
-### Working on: 🚀
+### Working on &nbsp; 🚀
 
 - **Education**: Studying Computer Science and Digital Communications at FH Campus Wien
   - Learning: Python, C, algorithms, AI
@@ -50,7 +63,8 @@ For more details, visit my [website](https://m-kaminski.at).
 - **Work**: XOOO Technologies & Mechatronics GmbH
   - Role: Application Developer
 
-### Professional Development 🌱
+
+### Seminars &nbsp; 🗣
 
 #### Kommunikation und Teambildung Seminar
 
