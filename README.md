@@ -4,7 +4,25 @@
 Dynamic Full Stack Developer with a keen interest in 2D/3D Design and Web Development. Currently pursuing a Bachelor’s in Computer Science and Digital Communications at FH Campus Wien, with a solid foundation in web technologies and design. 
 Passionate about blending technical expertise with creativity to deliver innovative solutions. Multilingual in English, German, and Polish, and enthusiastic about new challenges in the IT and design sectors.
       
-   
+### Languages and Proficiencies: 🌍
+I am multilingual with the following language proficiencies:
+- **Polish**: Proficient (C2)
+- **German**: Proficient (C2)
+- **English**: Advanced (C1)
+
+### Driver's License 🚗
+I hold the following driving licenses:
+- **Category B**: Since 09.2021
+- **Category B1**: Since 09.2021
+- **Category AM**: Since 09.2021
+
+### Interests 🌟
+I have a diverse range of interests that fuel my creativity and technical skills:
+- **2D & 3D Design**: Exploring dimensions in creativity.
+- **Coding**: Building and learning through code.
+- **Psychology**: Understanding human behavior and cognitive processes.
+- **Gaming**: Engaging with interactive and immersive digital environments.
+
 ### Social media: 📡    
 Let's connect on LinkedIn! Join my network and let's grow together.
 
@@ -32,6 +50,22 @@ For more details, visit my [website](https://m-kaminski.at).
 - **Work**: XOOO Technologies & Mechatronics GmbH
   - Role: Application Developer
 
+### Professional Development 🌱
+
+#### Kommunikation und Teambildung Seminar
+
+- **Institution**: Höhere technische Bundeslehranstalt Wien 3, IT & Mechatronik
+- **Duration**: 34 instructional units from 14-15.01.2022 to 25-26.02.2022
+- **Contents**:
+  - **Personality Development**: Enhancing communication processes, team capability, and setting personal development goals.
+  - **Fundamentals of Conversation Techniques**: Giving and receiving feedback, information transmission, goal-oriented communication, leadership behavior, and body language.
+  - **Integration of Project Management Theory and Soft Skills**: Focusing on project-oriented teamwork, psychosocial aspects of team dynamics, planning and execution of projects, teamwork phases, and conflict management.
+  - **Introduction into Moderation and Presentation Techniques**: Techniques in presentation, video analysis, effects of personal speaking style and body language.
+
+This seminar enhanced my skills in communication, teamwork, and project management, equipping me with advanced interpersonal and leadership capabilities.
+
+
+![Separator](https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/line.svg?sanitize=true)
 
 ## Technologies and Tools
 <div>
