@@ -43,12 +43,12 @@ Let's connect on LinkedIn! Join my network and let's grow together.
 
 ### Awards &nbsp; 🏆
 
-#### Österreichweiter CAD-ModellierWettbewerb 2018
-
-- **1st Place National**: Sekundarstufe I Hauptschule / AHS-Unterstufe
-- **2nd Place Statewide**: Sekundarstufe I Hauptschule / AHS-Unterstufe
-
-For more details, visit my [website](https://m-kaminski.at).
+>#### Österreichweiter CAD-ModellierWettbewerb 2018
+>
+>- **1st Place National**: Sekundarstufe I Hauptschule / AHS-Unterstufe
+>- **2nd Place Statewide**: Sekundarstufe I Hauptschule / AHS-Unterstufe
+>
+>For more details, visit my [website](https://m-kaminski.at).
 
 &nbsp;
 &nbsp;
@@ -57,26 +57,26 @@ For more details, visit my [website](https://m-kaminski.at).
 
 ### Working on &nbsp; 🚀
 
-- **Education**: Studying Computer Science and Digital Communications at FH Campus Wien
-  - Learning: Python, C, algorithms, AI
-
-- **Work**: XOOO Technologies & Mechatronics GmbH
-  - Role: Application Developer
+>- **Education**: Studying Computer Science and Digital Communications at FH Campus Wien
+>    - Learning: Python, C, algorithms, AI
+>
+>- **Work**: XOOO Technologies & Mechatronics GmbH
+>    - Role: Application Developer
 
 
 ### Seminars &nbsp; 🗣
 
-#### Kommunikation und Teambildung Seminar
-
-- **Institution**: Höhere technische Bundeslehranstalt Wien 3, IT & Mechatronik
-- **Duration**: 34 instructional units from 14-15.01.2022 to 25-26.02.2022
-- **Contents**:
-  - **Personality Development**: Enhancing communication processes, team capability, and setting personal development goals.
-  - **Fundamentals of Conversation Techniques**: Giving and receiving feedback, information transmission, goal-oriented communication, leadership behavior, and body language.
-  - **Integration of Project Management Theory and Soft Skills**: Focusing on project-oriented teamwork, psychosocial aspects of team dynamics, planning and execution of projects, teamwork phases, and conflict management.
-  - **Introduction into Moderation and Presentation Techniques**: Techniques in presentation, video analysis, effects of personal speaking style and body language.
-
-This seminar enhanced my skills in communication, teamwork, and project management, equipping me with advanced interpersonal and leadership capabilities.
+>#### Kommunikation und Teambildung Seminar
+>
+>- **Institution**: Höhere technische Bundeslehranstalt Wien 3, IT & Mechatronik
+>- **Duration**: 34 instructional units from 14-15.01.2022 to 25-26.02.2022
+>- **Contents**:
+>    - **Personality Development**: Enhancing communication processes, team capability, and setting personal development goals.
+>    - **Fundamentals of Conversation Techniques**: Giving and receiving feedback, information transmission, goal-oriented communication, leadership behavior, and body language.
+>    - **Integration of Project Management Theory and Soft Skills**: Focusing on project-oriented teamwork, psychosocial aspects of team dynamics, planning and execution of projects, teamwork phases, and conflict management.
+>    - **Introduction into Moderation and Presentation Techniques**: Techniques in presentation, video analysis, effects of personal speaking style and body language.
+>
+>This seminar enhanced my skills in communication, teamwork, and project management, equipping me with advanced interpersonal and leadership capabilities.
 
 
 ![Separator](https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/line.svg?sanitize=true)
