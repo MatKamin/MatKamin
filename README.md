@@ -74,7 +74,7 @@ For more details, visit my [website](https://m-kaminski.at).
 ### APIs and Data Exchange
 | REST | JSON | SOAP | XML | YAML |
 |------|------|------|-----|------|
-| <img src="https://ps.w.org/custom-wp-rest-api/assets/icon-128x128.png?rev=1975404" title="REST" alt="REST" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="55" height="55"/> | <img src="https://gotapi.com/wp-content/uploads/2023/10/soap-cloud-gear-thumbnail-1024x957.jpg" title="SOAP" alt="SOAP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="55" height="55"/> | <img src="https://commons.wikimedia.org/wiki/File:Official_YAML_Logo.svg" title="YAML" alt="YAML" width="55" height="55"/> |
+| <img src="https://ps.w.org/custom-wp-rest-api/assets/icon-128x128.png?rev=1975404" title="REST" alt="REST" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="55" height="55"/> | <img src="https://gotapi.com/wp-content/uploads/2023/10/soap-cloud-gear-thumbnail-1024x957.jpg" title="SOAP" alt="SOAP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="55" height="55"/> | 
 
 ### Virtualization and Containerization
 | Docker | VMware | VirtualBox | Kubernetes |
