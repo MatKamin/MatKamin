@@ -54,7 +54,7 @@ For more details, visit my [website](https://m-kaminski.at).
 ### Database Management
 | MongoDB | PostgreSQL | MySQL | Oracle | SQLite | MariaDB | H2 |
 |---------|------------|-------|--------|--------|---------|----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB" alt="MariaDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/h2/h2-original.svg" title="H2" alt="H2" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB" alt="MariaDB" width="55" height="55"/> |
 
 ### Design and 3D Modeling
 | Blender | Adobe Apps | SketchUp | Autodesk | ZBrush | Figma |
@@ -74,27 +74,27 @@ For more details, visit my [website](https://m-kaminski.at).
 ### APIs and Data Exchange
 | REST | JSON | SOAP | XML | YAML |
 |------|------|------|-----|------|
-| <img src="https://ps.w.org/custom-wp-rest-api/assets/icon-128x128.png?rev=1975404" title="REST" alt="REST" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="55" height="55"/> | <img src="https://gotapi.com/wp-content/uploads/2023/10/soap-cloud-gear-thumbnail-1024x957.jpg" title="SOAP" alt="SOAP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Yaml_logo.svg" title="YAML" alt="YAML" width="55" height="55"/> |
+| <img src="https://ps.w.org/custom-wp-rest-api/assets/icon-128x128.png?rev=1975404" title="REST" alt="REST" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="55" height="55"/> | <img src="https://gotapi.com/wp-content/uploads/2023/10/soap-cloud-gear-thumbnail-1024x957.jpg" title="SOAP" alt="SOAP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="55" height="55"/> | <img src="https://commons.wikimedia.org/wiki/File:Official_YAML_Logo.svg" title="YAML" alt="YAML" width="55" height="55"/> |
 
 ### Virtualization and Containerization
 | Docker | VMware | VirtualBox | Kubernetes |
 |--------|--------|------------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VMware_Icon.svg" title="VMware" alt="VMware" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://banner2.cleanpng.com/20180327/uvw/kisspng-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-telegram-5aba0e36267af9.6773511215221427741576.jpg" title="VMware" alt="VMware" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
 
 ### Testing and CI/CD
 | JUnit | Cypress | Swagger | Postman |
 |-------|---------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cypress/cypress-original.svg" title="Cypress" alt="Cypress" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="55" height="55"/> | <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" title="Cypress" alt="Cypress" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> |
 
 ### Security Tools
 | Cisco | Wireshark | Metasploit | Burpsuite | Netcat | Nmap |
 |-------|-----------|------------|-----------|--------|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/cisco/cisco-original.svg" title="Cisco" alt="Cisco" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/wireshark/wireshark-original.svg" title="Wireshark" alt="Wireshark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/metasploit/metasploit-original.svg" title="Metasploit" alt="Metasploit" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/burpsuite/burpsuite-original.svg" title="Burpsuite" alt="Burpsuite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/netcat/netcat-original.svg" title="Netcat" alt="Netcat" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nmap/nmap-original.svg" title="Nmap" alt="Nmap" width="55" height="55"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco" alt="Cisco" width="55" height="55"/> | <img src="https://static-00.iconduck.com/assets.00/wireshark-alt-icon-2048x2048-4ex8a9zk.png" title="Wireshark" alt="Wireshark" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/meta.png" title="Metasploit" alt="Metasploit" width="55" height="55"/> | <img src="https://cdn.icon-icons.com/icons2/1735/PNG/512/burpsuite_113238.png" title="Burpsuite" alt="Burpsuite" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/ru/2/29/Netcat_logo.png" title="Netcat" alt="Netcat" width="55" height="55"/> | <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" title="Nmap" alt="Nmap" width="55" height="55"/> |
 
 ### Collaboration and Communication
 | Zoom | Discord | Teams | Slack |
 |------|---------|-------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/zoom/zoom-original.svg" title="Zoom" alt="Zoom" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/discord/discord-original.svg" title="Discord" alt="Discord" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/teams/teams-original.svg" title="Teams" alt="Teams" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> |
+| <img src="https://www.pngall.com/wp-content/uploads/13/Zoom-Logo-PNG-Pic.png" title="Zoom" alt="Zoom" width="55" height="55"/> | <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" title="Discord" alt="Discord" width="55" height="55"/> | <img src="https://cdn.pixabay.com/photo/2022/01/27/07/17/microsoft-teams-6971301_1280.png" title="Teams" alt="Teams" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> |
 
 ### Machine Learning and Data Science
 | TensorFlow | Keras |
@@ -104,12 +104,12 @@ For more details, visit my [website](https://m-kaminski.at).
 ### Content Management Systems
 | Wordpress | Typo 3 |
 |-----------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/TYPO3.svg" title="Typo 3" alt="Typo 3" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="55" height="55"/> | <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/346_Typo3_logo-512.png" title="Typo 3" alt="Typo 3" width="55" height="55"/> |
 
 ### Server Management
 | NGINX | Apache Thrift |
 |-------|---------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachethrift/apachethrift-original.svg" title="Apache Thrift" alt="Apache Thrift" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="55" height="55"/> | <img src="https://img.stackshare.io/service/2263/apache.png" title="Apache Thrift" alt="Apache Thrift" width="55" height="55"/> |
 
 ### Development Environments
 | VS Code | XCode | IntelliJ | WebStorm | PhpStorm |
