@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=MatKamin&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
 ### About Me &nbsp; 👤 
 Dynamic Full Stack Developer with a keen interest in 2D/3D Design and Web Development. Currently pursuing a Bachelor’s in Computer Science and Digital Communications at FH Campus Wien, with a solid foundation in web technologies and design. 
 Passionate about blending technical expertise with creativity to deliver innovative solutions. Multilingual in English, German, and Polish, and enthusiastic about new challenges in the IT and design sectors.
@@ -63,6 +61,8 @@ Let's connect on LinkedIn! Join my network and let's grow together.
 >- **Work**: XOOO Technologies & Mechatronics GmbH
 >    - Role: Application Developer
 
+&nbsp;
+&nbsp;
 
 ### Seminars &nbsp; 🗣
 
@@ -78,6 +78,7 @@ Let's connect on LinkedIn! Join my network and let's grow together.
 >
 >This seminar enhanced my skills in communication, teamwork, and project management, equipping me with advanced interpersonal and leadership capabilities.
 
+&nbsp;
 
 ![Separator](https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/line.svg?sanitize=true)
 
@@ -186,16 +187,6 @@ Let's connect on LinkedIn! Join my network and let's grow together.
 
 
 ---
-
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MatKamin&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatKamin&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=MatKamin&style=for-the-badge&color=orange" alt=""/>
