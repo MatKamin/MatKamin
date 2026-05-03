@@ -1,6 +1,5 @@
 ### About Me &nbsp; 👤 
-Dynamic Full Stack Developer with a keen interest in 2D/3D Design and Web Development. Currently pursuing a Bachelor’s in Computer Science and Digital Communications at FH Campus Wien, with a solid foundation in web technologies and design. 
-Passionate about blending technical expertise with creativity to deliver innovative solutions. Multilingual in English, German, and Polish, and enthusiastic about new challenges in the IT and design sectors.
+I run K2Integris, making sure the tech makes sense for the business. I like to have a handle on the whole process. When I’m not working, I’m probably tinkering with 3D models or diving into a book on psychology.
 
 &nbsp;
 
@@ -55,12 +54,16 @@ Let's connect on LinkedIn! Join my network and let's grow together.
 
 ### Working on &nbsp; 🚀
 
->- **Education**: Studying Computer Science and Digital Communications at FH Campus Wien
->    - Learning: Python, C, algorithms, AI
+>- **Work**: 
+>    - **K2Integris** — CEO & Co-Founder (Enterprise Solutions & Architecture)
+>    - **XOOO Technologies** — Project Lead & Application Development
 >
->- **Work**: XOOO Technologies & Mechatronics GmbH
->    - Role: Application Developer
-
+>- **Education**: 
+>    - Studying Computer Science and Digital Communications at **FH Campus Wien**
+>    - Graduate of **HTL Wien 3 Rennweg** (Mediatechnology & Web-Development)
+>
+>- **Focus**: 
+>    - Building scalable systems, AI-driven automation, and exploring the psychology of team dynamics.
 &nbsp;
 &nbsp;
 
