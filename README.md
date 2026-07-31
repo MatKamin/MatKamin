@@ -1,5 +1,5 @@
 ### About Me &nbsp; 👤
-Co-Founder of **K2Integris** — building modular SaaS, custom enterprise software, and websites for SMEs across Europe.
+Co-Founder of **K2Integris** - building modular SaaS, custom enterprise software, and websites for SMEs across Europe.
 
 Background: 2+ years of enterprise application development (C++/Qt, full-stack, AI-driven workflow automation), including delivery work for global clients in the chemicals and logistics sector.
 
@@ -11,10 +11,11 @@ Outside work: 3D modeling, psychology, and figuring out why teams really work (o
 ### About This Profile &nbsp; 📂
 This profile is my **public learning trail** — university coursework, FH projects, and experiments. It is intentionally not a portfolio of my professional work.
 
-My current and past production code — enterprise applications at XOOO Technologies and K2Integris — lives in private repositories under client and company NDA.
+My current and past production code (enterprise applications at XOOO Technologies and K2Integris) lives in private repositories under client and company NDA.
 
 Strongest signals of my professional work:
 - **K2Integris** — [k2integris.com](https://k2integris.com) (live company, current builds in progress)
+- **Portfolio Website** - [m-kaminski.at](https://m-kaminski.at)
 - **Direct conversation** — happy to walk through architecture decisions, design patterns, and specific projects in an interview.
 
 &nbsp;
