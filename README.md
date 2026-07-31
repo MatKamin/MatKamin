@@ -9,20 +9,20 @@ Outside work: 3D modeling, psychology, and figuring out why teams really work (o
 
 &nbsp;
 ### About This Profile &nbsp; 📂
-This profile is my **public learning trail** — university coursework, FH projects, and experiments. It is intentionally not a portfolio of my professional work.
+This profile is my **public learning trail** - university coursework, FH projects, and experiments. It is intentionally not a portfolio of my professional work.
 
 My current and past production code (enterprise applications at XOOO Technologies and K2Integris) lives in private repositories under client and company NDA.
 
 Strongest signals of my professional work:
-- **K2Integris** — [k2integris.com](https://k2integris.com) (live company, current builds in progress)
+- **K2Integris** - [k2integris.com](https://k2integris.com) (live company, current builds in progress)
 - **Portfolio Website** - [m-kaminski.at](https://m-kaminski.at)
-- **Direct conversation** — happy to walk through architecture decisions, design patterns, and specific projects in an interview.
+- **Direct conversation** - happy to walk through architecture decisions, design patterns, and specific projects in an interview.
 
 &nbsp;
 ### Languages &nbsp; 🌍
-- **Polish** — Native (C2)
-- **German** — Native (C2)
-- **English** — Advanced (C1)
+- **Polish** - Native (C2)
+- **German** - Native (C2)
+- **English** - Advanced (C1)
 
 &nbsp;
 ### Connect &nbsp; 📡
